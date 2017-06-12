@@ -1,9 +1,9 @@
 # NodeAppMPR
 MPR Application
 
-Push an existing repository from command line
-
-git init
-git add .
-git commit -m "First commit"
-git push origin master
+<b>Push an existing repository from command line</b>
+</br>
+<p>git init</p>
+<p>git add .</p>
+<p>git commit -m "First commit"</p>
+<p>git push origin master</p>
